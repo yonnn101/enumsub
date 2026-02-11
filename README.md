@@ -33,4 +33,4 @@ Ensure the following tools are installed and available in your `$PATH`:
 ## 📥 Usage
 
 ```bash
-./subenum.sh -d example.com [OPTIONS]
+./enumsub.sh -d example.com [OPTIONS]
